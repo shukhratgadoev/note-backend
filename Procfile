@@ -1,1 +1,1 @@
-web: gunicorn shuha-note.wsgi --log-file -
+web: gunicorn shuha-note.wsgi:application --log-file -
