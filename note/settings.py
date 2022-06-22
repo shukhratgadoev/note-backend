@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-hv4*=axyausk(dladg81xbph_is5)4gelaf=-v$506ei%ucjsy
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://shuha-note.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
 
 
 
